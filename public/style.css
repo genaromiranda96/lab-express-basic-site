@@ -1,0 +1,19 @@
+body {
+    background-color: lightgray;
+  }
+  
+  
+.d-flex {
+    display: flex;
+}
+
+li {
+    margin-left: 15px;
+    text-decoration: none;
+    list-style: none;
+}
+
+img {
+    max-width: 80%;
+    max-height: 80%;
+}
